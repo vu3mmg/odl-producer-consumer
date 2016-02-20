@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.controller:sal-remoterpc-connector:1.3.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/sal-remoterpc-connector/1.3.0-SNAPSHOT/sal-remoterpc-connector-1.3.0-20160214.014130-488.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/sal-remoterpc-connector/1.3.0-SNAPSHOT/sal-remoterpc-connector-1.3.0-20160214.014130-488-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/sal-remoterpc-connector/1.3.0-SNAPSHOT/sal-remoterpc-connector-1.3.0-20160214.014130-488-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

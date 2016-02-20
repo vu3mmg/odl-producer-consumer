@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.controller:opendaylight-karaf-resources:1.6.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/opendaylight-karaf-resources/1.6.0-SNAPSHOT/opendaylight-karaf-resources-1.6.0-20160214.013611-489.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/opendaylight-karaf-resources/1.6.0-SNAPSHOT/opendaylight-karaf-resources-1.6.0-20160214.013611-489-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/opendaylight-karaf-resources/1.6.0-SNAPSHOT/opendaylight-karaf-resources-1.6.0-20160214.013611-489-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
